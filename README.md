@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Aakshita!] 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Aakshita!
 
 <div align="center">
 I'm currently pursuing Btech degree from University of Petroleum and Energy Studies <br> And did my schooling from St. Joseph's Academy Dehradun.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa6&theme=cobalt" width=350px>
 </div>
 <hr size="2">
-<img src="https://activity-graph.herokuapp.com/graph?useraakshitaa6&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=aakshitaa6&theme=redical">
 
 <hr size="2">
 <!--
