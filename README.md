@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa6&theme=cobalt" width=350px>
 </div>
 <hr size="2">
-<img src="https://activity-graph.herokuapp.com/graph?user=aakshitaa6&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?useraakshitaa6&theme=redical">
 
 <hr size="2">
 <!--
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 
 
-### [Connect with me ... 💬](https://www.linkedin.com/in/aakshita-singh-44794b227/) 
+### [My LinkedIn: 💬](https://www.linkedin.com/in/aakshita-singh-44794b227/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aakshitaa.aakshitaa)
