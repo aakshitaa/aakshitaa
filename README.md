@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa6&theme=cobalt" width=350px>
 </div>
 <hr size="2">
-<img src="https://activity-graph.herokuapp.com/graph?username=aakshitaa6&theme=redical">
+<img src="https://activity-graph.herokuapp.com/graph?username=aakshitaa&theme=redical">
 
 <hr size="2">
 <!--
