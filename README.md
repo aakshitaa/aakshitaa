@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+[![@aakshitaa's Holopin board](https://holopin.me/aakshitaa)](https://holopin.io/@aakshitaa)
 
 ### [My LinkedIn: 💬](https://www.linkedin.com/in/aakshita-singh-44794b227/) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aakshitaa.aakshitaa)
