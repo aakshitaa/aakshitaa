@@ -1,15 +1,4 @@
-<!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Aakshita!
-
-<div align="center">
-I'm currently pursuing Btech degree from University of Petroleum and Energy Studies <br> And did my schooling from St. Joseph's Academy Dehradun.
-</div> -->
-
 # Aakshita Singh&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
@@ -17,11 +6,11 @@ I'm currently pursuing Btech degree from University of Petroleum and Energy Stud
 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <a href="https://www.upes.ac.in/"> <b>University of Petroleum and Energy Studies</b>, Dehradun</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    I am a 3rd Year undergraduate from <a href="https://www.upes.ac.in/"> <b>University of Petroleum and Energy Studies</b>, Dehradun</a>.  
+    A budding <b>Software Developer and a <b> Design   Enthusiast,</b>  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>grow</b>and 
+    <b>excel.</b>
   </em>  
 </p>
 
@@ -38,176 +27,57 @@ I'm currently pursuing Btech degree from University of Petroleum and Energy Stud
 
 <br>
 
-<!--  Stats
- <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
+# Connect with me
 
-
-<a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a> -->
-
-<br>
-<!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
--->
-
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aakshita-singh-44794b227/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/aakshita_singh) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/aakshita.singh/)| [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="Github logo" width="34">](https://github.com/aakshitaa)| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:aakshitasingh786@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
 
-
-
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
+   
 <br>
-<br>
+
+## My Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakshitaa&show_icons=true&locale=en&layout=compact" alt="aakshita" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakshitaa&show_icons=true&locale=en" alt="aakshitaa" /></p>
 
 
-
-<!-- 
-
-![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
-
-<a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:shubhamdeepjha@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
-  
-  
-  
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Shubhamdeep Jha | Linkedin" width="34">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
-
-
-
- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa&" alt="aakshitaa" /></p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS3</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JAVA</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Maven</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/maven.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Bash</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-<!--
-**aakshitaa/aakshitaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## 📈Stats
- 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aakshitaa&theme=cobalt&show_icons=true&count_private=true&size=small" width=350px>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa6&theme=cobalt" width=350px>
-</div>
-<hr size="2">
-<img src="https://activity-graph.herokuapp.com/graph?username=aakshitaa&theme=redical">
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="cplusplus" />  
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Express.js-010030?style=for-the-badge&logo=express&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-03B6A4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Docker-06B6D4.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="cplusplus" />  
+  <img src="https://img.shields.io/badge/Jenkins-06B6D4.svg?style=for-the-badge&logo=Jenkins&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/Maven-02A36D.svg?style=for-the-badge&logo=maven&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/AWS-E44C30.svg?style=for-the-badge&logo=Amazon&logoColor=white" alt="cplusplus" />
+ <h1></h1>
 
-<hr size="2"> -->
-<!--
-<p align="center">
-  <img src="https://platane.github.io/snk/" alt="snake"></center>
-</p>
-<hr size="2">
--->
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
- -->
+## My Holopin Board
+
 [![@aakshitaa's Holopin board](https://holopin.me/aakshitaa)](https://holopin.io/@aakshitaa)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
-
-<!-- ### [My LinkedIn: 💬](https://www.linkedin.com/in/aakshita-singh-44794b227/)  -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aakshitaa.aakshitaa)
- -->
