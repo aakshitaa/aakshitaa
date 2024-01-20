@@ -47,8 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakshitaa&show_icons=true&locale=en" alt="aakshitaa" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakshitaa&" alt="aakshitaa" /></p>
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <div align="center">
