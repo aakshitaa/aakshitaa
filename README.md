@@ -6,9 +6,9 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.upes.ac.in/"> <b>University of Petroleum and Energy Studies</b>, Dehradun</a>.  
-    A budding <b>Software Developer and a <b> Design   Enthusiast,</b>  who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    I am a software developer at IBM and an undergraduate from <a href="https://www.upes.ac.in/"> <b>University of Petroleum and Energy Studies</b>, Dehradun</a> 
+    and a <b> Design   Enthusiast,</b>  who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants to 
     <b>grow</b>and 
     <b>excel.</b>
   </em>  
