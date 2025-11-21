@@ -9,7 +9,7 @@
     I am a software developer at IBM and an undergraduate from <a href="https://www.upes.ac.in/"> <b>University of Petroleum and Energy Studies</b>, Dehradun</a> 
     and a <b> Design   Enthusiast,</b>  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants to 
-    <b>grow</b>and 
+    <b>grow</b> and 
     <b>excel.</b>
   </em>  
 </p>
